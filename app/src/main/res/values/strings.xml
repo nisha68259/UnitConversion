@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitConversion</string>
+    <string-array name="Units">
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Litre</item>
+        <item>Millilitre</item>
+        <item>Kelvin</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>
